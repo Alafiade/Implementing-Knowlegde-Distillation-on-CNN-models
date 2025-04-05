@@ -36,5 +36,4 @@ I trained  the two models(Parent and Student) seperately to see how they perform
 
 
 
-- 
 
